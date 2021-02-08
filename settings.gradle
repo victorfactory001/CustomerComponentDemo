@@ -1,0 +1,3 @@
+include ':CustomerComponentView'
+include ':app'
+rootProject.name = "CustomerComponentDemo"
