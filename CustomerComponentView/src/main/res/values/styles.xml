@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomWhiteTitleBar">
+        <attr name="title_text" format="string" />
+        <attr name="share_visible" format="boolean" />
+        <attr name="more_visble" format="boolean" />
+        <attr name="back_visble" format="boolean" />
+        <attr name="view_line_visble" format="boolean" />
+    </declare-styleable>
+</resources>
